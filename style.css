@@ -200,14 +200,14 @@ span{
 }
 
 .typing-text{
-  font-size: 34px;
+  font-size: 35px;
   font-weight: 600;
   min-width: 280px;
 }
 
 .home-content p{
   line-height: 22px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .typing-text span{
